@@ -21,7 +21,7 @@ DevLinks é um agregador de links responsivo e com troca de tema que você pode 
 
 🤝 Vamos Conectar!
 
-    LinkedIn: [Seu Nome no LinkedIn](https://www.linkedin.com/in/luciano-da-ventura-de-souza-junior-1bab56138/)
+    LinkedIn: https://www.linkedin.com/in/luciano-da-ventura-de-souza-junior-1bab56138
     Instagram: @jrsouzahh
 
 📬 Entre em Contato:
