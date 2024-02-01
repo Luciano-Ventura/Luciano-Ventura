@@ -1,16 +1,34 @@
-### Hi there 👋
+👋 Olá, sou Luciano Jr - Desenvolvedor Full Stack Júnior 🚀
 
-<!--
-**Luciano-Ventura/Luciano-Ventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Eu sou um entusiasta da tecnologia e estou sempre buscando aprender e aprimorar minhas habilidades. Abaixo, você encontrará informações sobre meu conjunto de habilidades e os projetos nos quais tenho trabalhado.
 
-Here are some ideas to get you started:
+🛠️ Tecnologias que domino:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Frontend: HTML, CSS, JavaScript, jQuery, Bootstrap, React
+    Backend: Node.js
+    Banco de Dados: MongoDB, Firebase
+
+🚀 Projetos Destacados:
+
+DEVLINKS
+
+DevLinks é um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais.
+
+🌱 Estou Atualmente Aprendendo:
+
+    Novas tendências em desenvolvimento web.
+    Melhores práticas de arquitetura de software.
+
+🤝 Vamos Conectar!
+
+    LinkedIn: [Seu Nome no LinkedIn](https://www.linkedin.com/in/luciano-da-ventura-de-souza-junior-1bab56138/)
+    Instagram: @jrsouzahh
+
+📬 Entre em Contato:
+
+    Email: jrsouzahh@gmail.com
+    Site: #
+
+🙏 Obrigado por Visitar!
+
+Espero que você encontre algo interessante por aqui. Fique à vontade para explorar meus repositórios e entrar em contato se tiver alguma pergunta ou sugestão. Vamos construir algo incrível juntos! 😊
